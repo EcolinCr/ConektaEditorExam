@@ -1,0 +1,4 @@
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Models\bin\Debug\ConektaExam.Models.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Models\bin\Debug\ConektaExam.Models.pdb
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Models\obj\Debug\ConektaExam.Models.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Models\obj\Debug\ConektaExam.Models.pdb

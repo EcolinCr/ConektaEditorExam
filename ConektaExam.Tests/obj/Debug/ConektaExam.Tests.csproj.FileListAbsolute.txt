@@ -1,0 +1,17 @@
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\ConektaExam.Tests.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\ConektaExam.Tests.pdb
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\obj\Debug\ConektaExam.Tests.csprojAssemblyReference.cache
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\obj\Debug\ConektaExam.Tests.csproj.CopyComplete
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\obj\Debug\ConektaExam.Tests.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\obj\Debug\ConektaExam.Tests.pdb
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\ConektaExam.Business.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\ConektaExam.Models.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\ConektaExam.Business.pdb
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Tests\bin\Debug\ConektaExam.Models.pdb

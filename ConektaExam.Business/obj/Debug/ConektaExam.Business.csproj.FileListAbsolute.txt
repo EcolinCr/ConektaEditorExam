@@ -1,0 +1,8 @@
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\bin\Debug\ConektaExam.Business.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\bin\Debug\ConektaExam.Business.pdb
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\obj\Debug\ConektaExam.Business.csprojAssemblyReference.cache
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\obj\Debug\ConektaExam.Business.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\obj\Debug\ConektaExam.Business.pdb
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\bin\Debug\ConektaExam.Models.dll
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\bin\Debug\ConektaExam.Models.pdb
+C:\Users\ecolinc\source\repos\ConektaExam\ConektaExam.Business\obj\Debug\ConektaExam.Business.csproj.CopyComplete
